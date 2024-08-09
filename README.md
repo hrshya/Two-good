@@ -23,6 +23,6 @@ Two-good - Modern UI/UX website, developed using Html, CSS and Javascript, exemp
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Vite
-- React.js
-- Tailwind CSS
+- Html
+- CSS
+- Javascript
